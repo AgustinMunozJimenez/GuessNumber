@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name" translatable="false">GuessNumber</string>
+    <string name="tvIntentos">"Nº Intentos: "</string>
+    <string name="etPlayer">Introduce el jugador...</string>
+    <string name="etIntentos">Introduce el nº de intentos...</string>
+    <string name="btPlay">A Jugar!</string>
+    <string name="tvPrincipal">Intenta adivinar el número...</string>
+    <string name="btComprobar">Comprobar</string>
+    <string name="btVolverAJugar">Reintentar</string>
+    <string name="btCerrar" >Cerrar</string>
+    <string name="tvPlayer">"Jugador: "</string>
+</resources>

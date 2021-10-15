@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GuessNumber</string>
+    <string name="tvIntentos">"Tries: "</string>
+    <string name="etPlayer">Type the player...</string>
+    <string name="etIntentos">Type the number of tries...</string>
+    <string name="btPlay">Lets Play!</string>
+    <string name="tvPrincipal">Try to guess the number...</string>
+    <string name="btVolverAJugar">Try Again</string>
+    <string name="btCerrar">Close</string>
+    <string name="tvPlayer">"Player: "</string>
+    <string name="btComprobar">Check</string>
+</resources>
